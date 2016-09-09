@@ -1,0 +1,3 @@
+Now, I'll try the function mothod!
+Our small aim is making advct.m to be less than 30 lines. 
+Cheers go!
